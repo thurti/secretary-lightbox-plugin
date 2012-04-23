@@ -17,9 +17,11 @@ Images in one group are displayed as a image set. For thumbnail size, captions a
 ### CSS Styling Classes
 
 	<div class="fileGroup lightbox" id="[project_name]">
-		<a><img /></a>
-		<div class="imgInfo">
-			<span class="title">[Title]</span>
-			<span class="caption">[Caption]</span>
+		<div class="file">
+			<a><img /></a>
+			<div class="imgInfo">
+				<span class="title">[Title]</span>
+				<span class="caption">[Caption]</span>
+			</div>
 		</div>
 	</div>
