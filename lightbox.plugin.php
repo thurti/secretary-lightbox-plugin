@@ -66,7 +66,7 @@ function lightbox($project, $files, $group){
 			if ( $thumbWidth == 0 ) $thumbWidth= "auto";
 			if ( $thumbHeight == 0 ) $thumbHeight= "auto";
 			
-			$sources.= '<a href="'. $bigFile .'" rel="lightbox-'. $data['filegroup'].'" ' .$title.'><img src="' . $thumbnail . '" width="' . $thumbWidth . '" height="' . $thumbHeight . '" alt="' . $bigFile . '" alt="" /></a><div class="imgInfo">'.$imgTitle.' '.$imgCaption.'</div>';
+			$sources.= '<div class="file"><a href="'. $bigFile .'" rel="lightbox-'. $data['filegroup'].'" ' .$title.'><img src="' . $thumbnail . '" width="' . $thumbWidth . '" height="' . $thumbHeight . '" alt="' . $bigFile . '" alt="" /></a><div class="imgInfo">'.$imgTitle.' '.$imgCaption.'</div></div>';
 		}
 	}
 	
