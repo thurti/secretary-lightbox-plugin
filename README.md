@@ -24,4 +24,7 @@ Images in one group are displayed as a image set. For thumbnail size, captions a
 				<span class="caption">[Caption]</span>
 			</div>
 		</div>
+		.
+		.
+		.
 	</div>
