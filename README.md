@@ -15,6 +15,7 @@ The plugin uses Slimbox - (c) Christophe Beyls 2007-2010; http://code.google.com
 Images in one group are displayed as a image set. For thumbnail size, captions and title the plugin uses the settings from the "settings - project" page.
 
 ### CSS Styling Classes
+This is what the plugin generates per file group.
 
 	<div class="fileGroup lightbox" id="[project_name]">
 		<div class="file">
