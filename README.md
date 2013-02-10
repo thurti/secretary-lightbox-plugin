@@ -29,3 +29,12 @@ This is what the plugin generates per file group.
 		.
 		.
 	</div>
+
+#### changelog:
+**1.2**
+- resize and intelligent scaling of fullsize image
+- added "alt" and "title" to <img>
+- removed "alt" and "title" from <a> link
+
+**1.1**
+- added image title and image caption under thumbnail
