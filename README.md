@@ -1,4 +1,4 @@
-secretary-lightbox-plugin
+secretary-lightbox-plugin - archived
 =========================
 
 A lightbox displayer plugin for ~The Secretary CMS~ (doesn't exist anymore). 
