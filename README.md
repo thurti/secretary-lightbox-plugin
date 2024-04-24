@@ -1,7 +1,7 @@
 secretary-lightbox-plugin
 =========================
 
-A lightbox displayer plugin for [The Secretary CMS](http://thesecretary.org). 
+A lightbox displayer plugin for ~The Secretary CMS~ (doesn't exist anymore). 
 
 The plugin uses Slimbox - (c) Christophe Beyls 2007-2010; http://code.google.com/p/slimbox/
 
